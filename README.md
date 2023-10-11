@@ -3,7 +3,7 @@ Get ready !
 
 ![img](./images//wireframe.png)
 
->[wireframe](./images/wireframe.png)
+>[wireframe](https://github.com/ioayoub/WCS_0923-ReactChallenge1-PropsStates/blob/main/images/wireframe.png)
 
 *Les challenges sont des exercices qui vous permettent de mettre en pratique les connaissances acquises. Ils sont à réaliser après avoir terminé les cours et les quêtes.*
 
