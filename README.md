@@ -80,7 +80,6 @@ import data from './data/data.json
 - [Github](https://github.com)
 - [React Props](https://react.dev/learn/passing-props-to-a-component)
 - [React States](https://react.dev/learn/state-a-components-memory)
-- 
 
 Et bien sûr, votre [Formateur](https://github.com/ioayoub) préféré.
 
