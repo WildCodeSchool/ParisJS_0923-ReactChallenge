@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Smartphone XYZ",
+        "description": "Un smartphone haut de gamme avec un superbe écran et une caméra de qualité.",
+        "price": 799.99,
+        "image": "https://example.com/product1.jpg",
+        "category": "Électronique"
+    },
+    {
+        "id": 2,
+        "title": "Ordinateur Portable ABC",
+        "description": "Un ordinateur portable puissant pour les professionnels et les créatifs.",
+        "price": 1299.99,
+        "image": "https://example.com/product2.jpg",
+        "category": "Informatique"
+    },
+    {
+        "id": 3,
+        "title": "Montre Connectée DEF",
+        "description": "Une montre intelligente élégante avec suivi de la santé et des notifications.",
+        "price": 249.99,
+        "image": "https://example.com/product3.jpg",
+        "category": "Accessoires"
+    },
+    {
+        "id": 4,
+        "title": "Caméra DSLR 123",
+        "description": "Une caméra reflex numérique pour les photographes amateurs et professionnels.",
+        "price": 899.99,
+        "image": "https://example.com/product4.jpg",
+        "category": "Photographie"
+    },
+    {
+        "id": 5,
+        "title": "Enceinte Bluetooth EFG",
+        "description": "Une enceinte portable pour une expérience musicale exceptionnelle.",
+        "price": 59.99,
+        "image": "https://example.com/product5.jpg",
+        "category": "Audio"
+    },
+    {
+        "id": 6,
+        "title": "Console de Jeu HIJ",
+        "description": "Une console de jeu de dernière génération pour les joueurs passionnés.",
+        "price": 499.99,
+        "image": "https://example.com/product6.jpg",
+        "category": "Jeux vidéo"
+    },
+    {
+        "id": 7,
+        "title": "Livre KLM - Titre du Livre",
+        "description": "Un roman captivant de l'auteur renommé.",
+        "price": 19.99,
+        "image": "https://example.com/product7.jpg",
+        "category": "Livres"
+    },
+    {
+        "id": 8,
+        "title": "Chaussures de Sport NOP",
+        "description": "Des chaussures de sport confortables et stylées pour les amateurs de fitness.",
+        "price": 79.99,
+        "image": "https://example.com/product8.jpg",
+        "category": "Vêtements"
+    },
+    {
+        "id": 9,
+        "title": "Cafetière QRS",
+        "description": "Une cafetière programmable pour les amateurs de café.",
+        "price": 49.99,
+        "image": "https://example.com/product9.jpg",
+        "category": "Cuisine"
+    },
+    {
+        "id": 10,
+        "title": "Sac à Dos TUV",
+        "description": "Un sac à dos spacieux pour les aventuriers en plein air.",
+        "price": 69.99,
+        "image": "https://example.com/product10.jpg",
+        "category": "Accessoires"
+    },
+    {
+        "id": 11,
+        "title": "Téléviseur LCD WXY",
+        "description": "Un téléviseur LCD de 55 pouces avec une qualité d'image exceptionnelle.",
+        "price": 999.99,
+        "image": "https://example.com/product11.jpg",
+        "category": "Électronique"
+    },
+    {
+        "id": 12,
+        "title": "Tablette ZAB",
+        "description": "Une tablette polyvalente pour le travail et le divertissement.",
+        "price": 349.99,
+        "image": "https://example.com/product12.jpg",
+        "category": "Informatique"
+    },
+    {
+        "id": 13,
+        "title": "Casque Audio XYZ",
+        "description": "Un casque audio sans fil avec une excellente qualité sonore.",
+        "price": 129.99,
+        "image": "https://example.com/product13.jpg",
+        "category": "Audio"
+    },
+    {
+        "id": 14,
+        "title": "Jeu de Société ABC",
+        "description": "Un jeu de société amusant pour toute la famille.",
+        "price": 29.99,
+        "image": "https://example.com/product14.jpg",
+        "category": "Jeux"
+    },
+    {
+        "id": 15,
+        "title": "Blender DEF",
+        "description": "Un mixeur puissant pour préparer des smoothies et des soupes.",
+        "price": 39.99,
+        "image": "https://example.com/product15.jpg",
+        "category": "Cuisine"
+    },
+    {
+        "id": 16,
+        "title": "Tapis GHIJ",
+        "description": "Un tapis élégant pour décorer votre maison.",
+        "price": 89.99,
+        "image": "https://example.com/product16.jpg",
+        "category": "Maison et Jardin"
+    },
+    {
+        "id": 17,
+        "title": "Lunettes de Soleil KLM",
+        "description": "Des lunettes de soleil élégantes pour une protection UV optimale.",
+        "price": 29.99,
+        "image": "https://example.com/product17.jpg",
+        "category": "Accessoires"
+    },
+    {
+        "id": 18,
+        "title": "Ensemble de Bagages NOP",
+        "description": "Un ensemble de valises de voyage pour vos déplacements.",
+        "price": 149.99,
+        "image": "https://example.com/product18.jpg",
+        "category": "Voyage"
+    },
+    {
+        "id": 19,
+        "title": "Sweatshirt QRS",
+        "description": "Un sweatshirt confortable pour les journées fraîches.",
+        "price": 34.99,
+        "image": "https://example.com/product19.jpg",
+        "category": "Vêtements"
+    },
+    {
+        "id": 20,
+        "title": "Enceinte Bluetooth TUV",
+        "description": "Une petite enceinte portable avec un son impressionnant.",
+        "price": 49.99,
+        "image": "https://example.com/product20.jpg",
+        "category": "Audio"
+    }
+]
