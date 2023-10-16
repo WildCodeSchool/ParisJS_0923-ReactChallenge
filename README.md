@@ -32,7 +32,7 @@ Créez les composants suivants :
 
 ### 3. Données
 
-Créez un fichier `data.json` dans un dossier `data` qui contient un tableau d'objets qui représente les articles à afficher. Chaque objet doit contenir les propriétés suivantes :
+Vous avez un fichier `data.json` qui se trouve dans le dossier `data` qui contient plusieurs données :
 
 - `id` : un identifiant unique
 - `title` : le titre de l'article
